@@ -24,7 +24,7 @@ TEMPLATE_DIR_RECRUITER = os.path.join(BASE_DIR,
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'dqxtn)l(&0scds(n-7%75ei*h1onb-e%**_cmthacz@s5d9+$e'
+SECRET_KEY = "load from env"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
